@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Eny'je!
 
-I'm a **Computer Science major** passionate about technology, problem-solving, and cybersecurity. Currently, I'm diving deep into **C++ programming** and exploring the world of **cybersecurity** to build my expertise in protecting systems and networks.
+I'm a **CUNYBA Major with Concetration in Cybersecurity** passionate about technology, problem-solving, and cybersecurity. Currently, I'm diving deep into **C++ programming** and exploring the world of **cybersecurity** to build my expertise in protecting systems and networks.
 
 ---
 
@@ -41,7 +41,7 @@ I'm a **Computer Science major** passionate about technology, problem-solving, a
 
 ## ✨ Fun Facts About Me
 - 🎨 I’m a nail art enthusiast who loves combining creativity with logic.  
-- 🤝 Secretary of **The Colorstack Club** at CUNY College of Staten Island.  
+- 🤝 President of **The Colorstack Club** at CUNY College of Staten Island.  
 - 🧩 Always finding ways to merge my passions with technology.  
 
 ---
